@@ -4,7 +4,7 @@
 
 <!-- Squad properties follow - change values as necessary -->
 <!-- Keep nick short - it is displayed together with players nick -->
-<squad nick="»KR«">
+<squad nick="KR">
 	<!-- Main squad name, also page title when XML is viewed in web browser -->
 	<name>KreuzRitter</name>
 	<!-- Squadmaster email address -->
@@ -29,4 +29,5 @@
 
 <!-- End of member list -->
 </squad>
+
 
