@@ -14,7 +14,7 @@
 	<!-- Squad picture URL (will be documented later) -->
 	<picture>squadkr.jpg</picture>
 	<!-- Squad name - displayed on vehicles manned by squad members -->
-	<title>[»KR«]</title>
+	<title>[KR]</title>
 <!-- End of squad properties  -->
 
 <!-- Member list follows - change values as necessary -->
@@ -29,5 +29,6 @@
 
 <!-- End of member list -->
 </squad>
+
 
 
