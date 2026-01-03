@@ -4,29 +4,30 @@
 
 <!-- Squad properties follow - change values as necessary -->
 <!-- Keep nick short - it is displayed together with players nick -->
-<squad nick="»KR«">
+<squad nick="KR">
 	<!-- Main squad name, also page title when XML is viewed in web browser -->
-	<name>KreuzRitter</name>
+	<name>Elitni Pivni Jednotka</name>
 	<!-- Squadmaster email address -->
-	<email>This is Avanti Rap</email>
+	<email>vedeni@epj.cz</email>
 	<!-- Main web site of the squad -->
-	<web>For my laggers in the back</web>
+	<web>www.lolwtf.com</web>
 	<!-- Squad picture URL (will be documented later) -->
 	<picture>squadkr.jpg</picture>
 	<!-- Squad name - displayed on vehicles manned by squad members -->
-	<title>»KR«</title>
+	<title>[KR]</title>
 <!-- End of squad properties  -->
 
 <!-- Member list follows - change values as necessary -->
 <!-- user ID and nick nick must be the same as given in OFP Edit Player dialog -->
 
-	<member id="4742514" nick="SpezPro">
+	<member id="4742514" nick="[»KR«]SpezPro">
 		<name>SpezPro</name>
-		<email>lolwut@gmail.com</email>
+		<email>igi@wo.cz</email>
 		<icq>1337</icq>
-		<remark>Raising the gay flag over Everon</remark>
+		<remark>Raising gay flag over Everon</remark>
 	</member>
 
 <!-- End of member list -->
 </squad>
+
 
