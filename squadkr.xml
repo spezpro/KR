@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+
+<!-- Squad properties follow - change values as necessary -->
+<!-- Keep nick short - it is displayed together with players nick -->
+<squad nick="Crusader">
+	<!-- Main squad name, also page title when XML is viewed in web browser -->
+	<name>KreuzRitter</name>
+	<!-- Squadmaster email address -->
+	<email>lolwut</email>
+	<!-- Main web site of the squad -->
+	<web>lolwut.com</web>
+	<!-- Squad picture URL (will be documented later) -->
+	<picture>kr.paa</picture>
+	<!-- Squad name - displayed on vehicles manned by squad members -->
+	<title>[»KR«]</title>
+<!-- End of squad properties  -->
+
+<!-- Member list follows - change values as necessary -->
+<!-- user ID and nick nick must be the same as given in OFP Edit Player dialog -->
+
+	<member id="4742514" nick="[»KR«]SpezPro">
+		<name>[»KR«]SpezPro</name>
+		<email>Germany</email>
+		<icq>1337</icq>
+		<remark>Raising gay flag over Everon</remark>
+	</member>
+
+<member id="8526768" nick="[»KR«]~D~E~V~I~L~">
+		<name>[»KR«]~D~E~V~I~L~</name>
+		<email>Germany</email>
+		<icq>1337</icq>
+		<remark></remark>
+	</member>
+
+<member id="9158803" nick="[»KR«]alexadem">
+		<name>[»KR«]alexadem</name>
+		<email>Russia</email>
+		<icq>1337</icq>
+		<remark>Pustota v golove</remark>
+	</member>
+
+<member id="419622" nick="[»KR«]JW">
+		<name>[»KR«]JW</name>
+		<email>Italy</email>
+		<icq>1337</icq>
+		<remark></remark>
+	</member>
+
+<member id="8770028" nick="[»KR«]Snw^">
+		<name>[»KR«]Snw^</name>
+		<email>Czech Republic</email>
+		<icq>1337</icq>
+		<remark>Make TKC great again!</remark>
+	</member>
+
+
+<!-- End of member list -->
+</squad>
